@@ -90,7 +90,7 @@ pyxdg==0.25
 PyYAML==5.1.2
 pyzmq==16.0.2
 regex==2019.8.19
-reportlab==3.4.0
+reportlab==3.5.55
 requests==2.22.0
 requests-unixsocket==0.1.5
 scikit-learn==0.21.3
